@@ -1,0 +1,15 @@
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\bin\Debug\net6.0\EGG-2.1.2.exe
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\bin\Debug\net6.0\EGG-2.1.2.deps.json
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\bin\Debug\net6.0\EGG-2.1.2.runtimeconfig.json
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\bin\Debug\net6.0\EGG-2.1.2.dll
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\bin\Debug\net6.0\EGG-2.1.2.pdb
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.csproj.AssemblyReference.cache
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.AssemblyInfoInputs.cache
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.AssemblyInfo.cs
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.csproj.CoreCompileInputs.cache
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.dll
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\refint\EGG-2.1.2.dll
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.pdb
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\EGG-2.1.2.genruntimeconfig.cache
+D:\Repositorios\EjerciciosEgg\EGG-2.1.2\EGG-2.1.2\obj\Debug\net6.0\ref\EGG-2.1.2.dll
