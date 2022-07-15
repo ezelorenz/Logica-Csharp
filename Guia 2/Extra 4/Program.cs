@@ -23,8 +23,7 @@
         {
             Console.WriteLine("Ingrese la cantidad de litros gastados");
             double consumo = double.Parse(Console.ReadLine());
-            /*Console.WriteLine("Ingrese el tiempo transcurrido, en horas");
-            double tiempo = double.Parse(Console.ReadLine());*/
+            
             double precioConsumo = consumo * 40;
             double tiempoMinutos = alquiler * 60;
             double precioTiempo = tiempoMinutos * 5.2;
